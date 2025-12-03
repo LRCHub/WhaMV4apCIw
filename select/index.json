@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "CHEEKY",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:34:48.712279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheeky",
+      "artist": "Pete Philly & Perquisite",
+      "has_synced": true,
+      "path": "select/01_Cheeky_Pete_Philly_&_Perquisite.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheeky Monkey",
+      "artist": "Roni Size feat. Tali & Dynamite MC",
+      "has_synced": false,
+      "path": "select/02_Cheeky_Monkey_Roni_Size_feat._Tali_&_Dynamite_MC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheeky Monkey (Feat Tali & Dynamite)",
+      "artist": "Roni Size",
+      "has_synced": false,
+      "path": "select/03_Cheeky_Monkey_(Feat_Tali_&_Dynamite)_Roni_Size.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheeky Song (Touch My Bum)",
+      "artist": "The Cheeky Girls",
+      "has_synced": true,
+      "path": "select/04_Cheeky_Song_(Touch_My_Bum)_The_Cheeky_Girls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheeky Song (Touch My Bum)",
+      "artist": "The Cheeky Girls",
+      "has_synced": true,
+      "path": "select/05_Cheeky_Song_(Touch_My_Bum)_The_Cheeky_Girls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Have a Cheeky Christmas",
+      "artist": "The Cheeky Girls",
+      "has_synced": false,
+      "path": "select/06_Have_a_Cheeky_Christmas_The_Cheeky_Girls.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheeky Song (Touch My Bum)",
+      "artist": "Cheeky Girls",
+      "has_synced": false,
+      "path": "select/07_Cheeky_Song_(Touch_My_Bum)_Cheeky_Girls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheeky Monkey",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/08_Cheeky_Monkey_A.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheeky Cheeky",
+      "artist": "Yuvan Shankar Raja, Matilda D'Silva & Nrithya Maria Andrews",
+      "has_synced": false,
+      "path": "select/09_Cheeky_Cheeky_Yuvan_Shankar_Raja,_Matilda_D'Silva_&_Nrithya_Maria_Andrews.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheeky Cheeky",
+      "artist": "Yuvan Shankar Raja, Matilda & Nrithya Maria Andrews",
+      "has_synced": false,
+      "path": "select/10_Cheeky_Cheeky_Yuvan_Shankar_Raja,_Matilda_&_Nrithya_Maria_Andrews.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Cheeky Song (LMC remix)",
+      "artist": "The Cheeky Girls",
+      "has_synced": false,
+      "path": "select/11_The_Cheeky_Song_(LMC_remix)_The_Cheeky_Girls.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CHEEKY",
+      "artist": "EL7Z UP",
+      "has_synced": true,
+      "path": "select/12_CHEEKY_EL7Z_UP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Freaky Cheeky",
+      "artist": "EXILE SHOKICHI",
+      "has_synced": true,
+      "path": "select/13_Freaky_Cheeky_EXILE_SHOKICHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHEEKY",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_CHEEKY_豊崎_愛生.txt"
+    }
+  ]
+}
